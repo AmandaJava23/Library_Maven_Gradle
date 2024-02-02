@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LibraryMaven 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'LibraryMaven 1.0-SNAPSHOT API'
+ui
+models
+utilities
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/src/main/java = 1706185920374
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/tag-search-index.js = 1706799967298
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/overview-tree.html = 1706799967287
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/module-search-index.js = 1706799967297
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/index.html = 1706799967288
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/package-search-index.js = 1706799967297
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/jquery-ui.overrides.css = 1706799967307
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/serialized-form.html = 1706799967268
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/index-all.html = 1706799967302
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/allpackages-index.html = 1706799967297
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/member-search-index.js = 1706799967297
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/script.js = 1706799967305
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/stylesheet.css = 1706799967305
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/overview-summary.html = 1706799967303
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/help-doc.html = 1706799967304
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/element-list = 1706799967257
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/allclasses-index.html = 1706799967296
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/type-search-index.js = 1706799967297
+/Users/amandavasilis/Documents/Utvecklingsverktyg/Inlämningar/Library/target/site/apidocs/search.js = 1706799967306

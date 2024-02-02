@@ -1,0 +1,8 @@
+Maven goals jag har använt:
+
+mvn compiler:compile
+mvn clean:clean
+mvn javadoc:javadoc
+mvn surefire:test
+mvn jar:jar
+
