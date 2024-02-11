@@ -1,0 +1,17 @@
+-classpath '/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/build/classes/java/main:/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/build/resources/main'
+-d '/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/build/docs/javadoc'
+-doctitle 'LibraryGradle 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'LibraryGradle 1.0-SNAPSHOT API'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/ui/Main.java'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/models/BookNotFoundException.java'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/models/Material.java'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/models/LoanNotFoundException.java'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/models/Customer.java'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/models/LoanAlreadyExistsException.java'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/models/Loan.java'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/models/BookCatalog.java'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/models/Book.java'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/utilities/LoanStatus.java'
+'/Users/amandavasilis/Documents/Utvecklingsverktyg/Library_Maven_Gradle/LibraryGradle/src/main/java/utilities/GenderType.java'
